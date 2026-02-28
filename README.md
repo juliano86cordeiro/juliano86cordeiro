@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é juliano,eu moro em São Paulo.</p>
+<p align="left">Meu nome é juliano,eu moro em São Paulo. 😎😎😎😎</p>
 
 ###
 
